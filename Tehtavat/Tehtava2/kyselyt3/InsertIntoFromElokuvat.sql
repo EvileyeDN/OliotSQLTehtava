@@ -1,1 +1,0 @@
-﻿INSERT into Julkaisija(Julkaisija) SELECT DISTINCT (Julkaisija) from elokuvat

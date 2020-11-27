@@ -1,1 +1,0 @@
-﻿UPDATE elokuvat set Id=(SELECT Id from Julkaisija where Nimi=elokuvat.Julkaisija)
